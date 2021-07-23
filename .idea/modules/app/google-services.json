@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "110290717871",
+    "project_id": "kisanseva-cec5c",
+    "storage_bucket": "kisanseva-cec5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110290717871:android:8140e3e609a35db635185a",
+        "android_client_info": {
+          "package_name": "com.sudipasarkar.kisanseva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110290717871-m2cgrlr8op3s6o92s59mlliurjkf5eg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sudipasarkar.kisanseva",
+            "certificate_hash": "1127798deb61da5bca7aa8f95d25381016e643e1"
+          }
+        },
+        {
+          "client_id": "110290717871-vg5e9nq3cpfeqhapthu5guir1h2v84uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlHOLmkFfBMkWDnUhPBAc9LQi9oGLXG9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110290717871-vg5e9nq3cpfeqhapthu5guir1h2v84uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
